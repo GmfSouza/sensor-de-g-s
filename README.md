@@ -68,11 +68,11 @@ Gas Level:
 
 # or
 
-## 🌐 Ver Online
+## 🌐 View Online
 
-Você pode visualizar e simular este projeto diretamente no Tinkercad:
+You can view and simulate this project directly on Tinkercad:
 
-👉 [Acesse o projeto no Tinkercad](https://www.tinkercad.com/things/eEMZPNOTxpE-sensor-de-gas)
+👉 [Open in Tinkercad](https://www.tinkercad.com/things/eEMZPNOTxpE-sensor-de-gas)
 
 ## 🧪 Possible Improvements
 
